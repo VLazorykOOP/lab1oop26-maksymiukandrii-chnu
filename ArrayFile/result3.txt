@@ -1,0 +1,2 @@
+Sum of repeating: 4
+Product of unique: 60
